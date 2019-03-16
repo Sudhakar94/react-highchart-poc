@@ -1,0 +1,32 @@
+{
+  "title": {
+    "text": "Fruit Consumption"
+  },
+  "xAxis": {
+    "categories": [
+      "Apples",
+      "Bananas",
+      "Oranges",
+      "Pineapples",
+      "Blueberries"
+    ]
+  },
+  "yAxis": {
+    "title": {
+      "text": "Fruit eaten"
+    }
+  },
+  "series": [{
+      "name": "Jane",
+      "data": [1, 0, 4, 0, 3]
+    },
+    {
+      "name": "John",
+      "data": [5, 7, 3, 2, 4]
+    },
+    {
+      "name": "Doe",
+      "data": [9, -2, 5, 1, 0]
+    }
+  ]
+}
